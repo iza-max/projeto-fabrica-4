@@ -28,3 +28,9 @@ Programa simples em Python que converte temperatura da escala **Celsius (°C)** 
 
 ```bash
 python conversor.py
+
+
+Digite a temperatura em Celsius: 25
+Temperatura em Fahrenheit: 77.0 °F
+Temperatura em Kelvin: 298.15 K
+
