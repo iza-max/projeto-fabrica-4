@@ -1,4 +1,4 @@
-celsius = float(input("digite a temperatura em graus celsius"))
+celsius = float(input("digite a temperatura em graus celsius: "))
 
 kelvis = celsius + 273.15
 print(f"Temperatura em Kelvin: {kelvis} K")
